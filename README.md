@@ -24,11 +24,11 @@ In game commands,
 •	“counterclockwise” rotate block 90 degrees counterclockwise  
 •	“drop” drop the current black as far down as possible before contact either the bottom or a block  
 •	“levelup” increase the game level by one  
-•	“leveldown” decrease the game level by one
+•	“leveldown” decrease the game level by one  
 •	“norandom xxx” relevant only at level 3 and 4. Makes these levels to take input from xxx file instead of random  
 •	“random” relevant only at level 3 and 4. Restore random again  
 •	“sequence xxx” Execute sequence of commands in xxx  
 •	“I” replaces the current block with I-block  
-•	“J” replaces the current block with J-block
-•	“L” replaces the current block with L-block
+•	“J” replaces the current block with J-block  
+•	“L” replaces the current block with L-block  
 •	“restart” clears the board and starts a new game  
