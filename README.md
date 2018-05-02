@@ -6,4 +6,5 @@ To run, compile the file using Makefile and execute “quadris” on the command
 Program supports following options on command line
 •	“-text” which runs the game in text-only
 
+![alt tag](http://url/to/img.png)
  
